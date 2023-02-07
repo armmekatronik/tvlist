@@ -1,1 +1,33 @@
-https://list.iptvcat.com/my_list/s/4d65a38a607971d4bb9c75b391b9c485.m3u8
+#EXTM3U
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",24 TV HD
+https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/3779a336-8033-4745-af5a-356ef10a2a36.png" group-title="Undefined",360 TV
+http://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/chunklist_b3128000.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",DMAX HD
+http://195.155.98.170:5858/play/a0a4?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",NTV HD
+http://195.155.98.170:5858/play/a0a0?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",SEMERKAND TV HD
+https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",STAR TV HD
+http://195.155.98.170:5858/play/a09z?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TLC HD
+http://195.155.98.170:5858/play/a0a5?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TRT 1
+http://195.155.98.170:5858/play/a09j?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TRT BELGESEL
+http://195.155.98.170:5858/play/a09o?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TRT1 HD
+http://195.155.98.170:5858/play/a09c?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TRT2 HD
+http://195.155.98.170:5858/play/a09p?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TV 100 HD TR
+https://mn-nl.mncdn.com/blutv_tv1002/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",TV4 FHD
+https://mn-nl.mncdn.com/blutv_tv4/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",ULKE TV HD
+https://mn-nl.mncdn.com/blutv_ulketv2/live_720p2000000kbps/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",ULUSAL KANAL HD
+https://mn-nl.mncdn.com/blutv_ulusalkanal/smil:blutv_ulusalkanal.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",YABAN TV FHD
+https://59cba4d34b678.streamlock.net/live1/yabantv/chunklist_w192048208.m3u8?checkedby:iptvcat.com
